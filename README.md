@@ -1,0 +1,1 @@
+Decorator -Nos permite agregarle funcionalidades a un objeto existente sin modificar su estructura
