@@ -12,3 +12,17 @@ E:\unity\Patrones-Decorator\Patrones-Decorator\obj\Debug\netcoreapp3.1\Patrones-
 E:\unity\Patrones-Decorator\Patrones-Decorator\obj\Debug\netcoreapp3.1\Patrones-Decorator.dll
 E:\unity\Patrones-Decorator\Patrones-Decorator\obj\Debug\netcoreapp3.1\Patrones-Decorator.pdb
 E:\unity\Patrones-Decorator\Patrones-Decorator\obj\Debug\netcoreapp3.1\Patrones-Decorator.genruntimeconfig.cache
+E:\unity\quark\Patrones\Patrones-Decorator\Patrones-Decorator\bin\Debug\netcoreapp3.1\Patrones-Decorator.exe
+E:\unity\quark\Patrones\Patrones-Decorator\Patrones-Decorator\bin\Debug\netcoreapp3.1\Patrones-Decorator.deps.json
+E:\unity\quark\Patrones\Patrones-Decorator\Patrones-Decorator\bin\Debug\netcoreapp3.1\Patrones-Decorator.runtimeconfig.json
+E:\unity\quark\Patrones\Patrones-Decorator\Patrones-Decorator\bin\Debug\netcoreapp3.1\Patrones-Decorator.runtimeconfig.dev.json
+E:\unity\quark\Patrones\Patrones-Decorator\Patrones-Decorator\bin\Debug\netcoreapp3.1\Patrones-Decorator.dll
+E:\unity\quark\Patrones\Patrones-Decorator\Patrones-Decorator\bin\Debug\netcoreapp3.1\Patrones-Decorator.pdb
+E:\unity\quark\Patrones\Patrones-Decorator\Patrones-Decorator\obj\Debug\netcoreapp3.1\Patrones-Decorator.csproj.AssemblyReference.cache
+E:\unity\quark\Patrones\Patrones-Decorator\Patrones-Decorator\obj\Debug\netcoreapp3.1\Patrones-Decorator.GeneratedMSBuildEditorConfig.editorconfig
+E:\unity\quark\Patrones\Patrones-Decorator\Patrones-Decorator\obj\Debug\netcoreapp3.1\Patrones-Decorator.AssemblyInfoInputs.cache
+E:\unity\quark\Patrones\Patrones-Decorator\Patrones-Decorator\obj\Debug\netcoreapp3.1\Patrones-Decorator.AssemblyInfo.cs
+E:\unity\quark\Patrones\Patrones-Decorator\Patrones-Decorator\obj\Debug\netcoreapp3.1\Patrones-Decorator.csproj.CoreCompileInputs.cache
+E:\unity\quark\Patrones\Patrones-Decorator\Patrones-Decorator\obj\Debug\netcoreapp3.1\Patrones-Decorator.dll
+E:\unity\quark\Patrones\Patrones-Decorator\Patrones-Decorator\obj\Debug\netcoreapp3.1\Patrones-Decorator.pdb
+E:\unity\quark\Patrones\Patrones-Decorator\Patrones-Decorator\obj\Debug\netcoreapp3.1\Patrones-Decorator.genruntimeconfig.cache

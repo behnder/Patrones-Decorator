@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X5VUFW9EGwdZNcr36tNsc/fRH6FgbVWahgvMmMmn9i/T3IbumaI85f+x3vwa/jGcL7YgTsEJHYFqsNdNy2+ajA==",
+  "dgSpecHash": "S7HnWtHN13Jq8oz2mStd3THdFuX0+VapOq88rg1Qw04zEZmmJSzqbbnkfkv1amPiQAYgT1q0XDrqVUWdsUWGVw==",
   "success": true,
-  "projectFilePath": "E:\\unity\\Patrones-Decorator\\Patrones-Decorator\\Patrones-Decorator.csproj",
+  "projectFilePath": "E:\\unity\\quark\\Patrones\\Patrones-Decorator\\Patrones-Decorator\\Patrones-Decorator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
